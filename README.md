@@ -2,7 +2,7 @@
 This is _git_ **project**!
 
 
-'''html
+```html
 <title>Good</title>
 <!-- Try it -->
-'''
+```
