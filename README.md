@@ -1,2 +1,8 @@
 # Git
-This is git project
+This is _git_ **project**!
+
+
+'''html
+<title>Good</title>
+<!-- Try it -->
+'''
